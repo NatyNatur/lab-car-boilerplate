@@ -54,10 +54,10 @@ body {
 }
 
 #boxito-1 {
-	width: 26em;
+	width: 18em;
 	height: 15em;
 	background-color: #F7B617;
-	padding: 2em;
+	padding: 1em;
 }
 
 #box-2 {
@@ -158,6 +158,13 @@ footer {
 	color: #FFF;
 	font-size: 2em;
 }
+
+
+.little li a {
+	color: #FFF;
+	font-size: 1em;
+}
+
 
 #footerInfo div ul li p {
 	color: #FFF;
